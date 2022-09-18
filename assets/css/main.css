@@ -122,6 +122,10 @@ input, select, textarea {
 			border-color: transparent;
 		}
 
+	h1, p {
+		text-shadow: 2px 2px #000;
+	}
+
 /* Icon */
 
 	.icon {
